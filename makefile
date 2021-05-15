@@ -1,5 +1,5 @@
 # change application name here (executable output name)
-TARGET=reservationSystem
+TARGET=gui_linux_template
 
 # compiler
 CC=gcc
